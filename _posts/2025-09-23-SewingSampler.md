@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Sewing Sampler
-cover-img: [/assets/IMG_8422.jpeg, /assets/IMG_8443.jpeg]
+cover-img: - "/assets/IMG_8422.jpeg"
+           - "/assets/IMG_8443.jpeg"
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: 

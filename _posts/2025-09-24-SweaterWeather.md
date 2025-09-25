@@ -2,8 +2,8 @@
 layout: post
 title: Sweater Weather! 
 cover-img:
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/SweaterThumbnail.jpg
+share-img: /assets/img/SweaterThumbnail.jpg
 tags: 
 author: Ellen Ko
 ---

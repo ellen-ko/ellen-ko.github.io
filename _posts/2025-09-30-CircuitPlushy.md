@@ -12,6 +12,6 @@ This assignment was done in a slightly more timely manner, done before 2am! This
 
 ![paperprototype](https://ellen-ko.github.io/assets/img/paperpro.jpg)
 ![alligatorprototype](https://ellen-ko.github.io/assets/img/alligator.jpg)
-![front](https://ellen-ko.github.io/assets/img/IMG_8443.jpeg)
-![back](https://ellen-ko.github.io/assets/img/IMG_8443.jpeg)
+![front](https://ellen-ko.github.io/assets/img/frontPlu.jpg)
+![back](https://ellen-ko.github.io/assets/img/backPlu.jpg)
 

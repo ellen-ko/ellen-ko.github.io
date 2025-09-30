@@ -2,7 +2,7 @@
 layout: post
 title: A Derpy Little Thing
 cover-img:
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Plushfront.jpg
 share-img: /assets/img/path.jpg
 tags: 
 author: Ellen Ko

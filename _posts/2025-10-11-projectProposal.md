@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Help!
+title: Project Proposal
 cover-img:
 thumbnail-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg

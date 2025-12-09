@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Report: Pocketful of Sunshine
+title: Project Report - Pocketful of Sunshine
 cover-img:
 thumbnail-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg

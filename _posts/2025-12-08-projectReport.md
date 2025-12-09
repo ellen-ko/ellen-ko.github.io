@@ -26,6 +26,6 @@ I have a few tips for my past self: I found that when it came time for me to act
 ![paper prototype](https://ellen-ko.github.io/assets/img/IMG_0240.jpg)
 ![alligator clip prototype](https://ellen-ko.github.io/assets/img/alligatorF.jpg)
 ![Working Picture 1](https://ellen-ko.github.io/assets/img/Work1.jpg)
-![Working Picture 2](https://ellen-ko.github.io/assets/img/work2.jpg)
 ![Working Picture 3](https://ellen-ko.github.io/assets/img/work3.jpg)
+![Working Picture 2](https://ellen-ko.github.io/assets/img/work2.jpg)
 
